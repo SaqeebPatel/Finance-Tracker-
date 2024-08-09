@@ -16,5 +16,5 @@
 ## Installation
 # Clone the repository:
 bash```
-  git clone https://github.com/yourusername/finance-tracker.git
+  git clone [https://github.com/yourusername/finance-tracker.git](https://github.com/SaqeebPatel/Finance-Tracker-?tab=readme-ov-file)
 ```
