@@ -20,7 +20,7 @@ This project is a REST API for managing personal finances, including user regist
 1. Clone the repository:
 
     ```sh
-    git clone https://github.com/your-username/finance-tracker-api.git
+    git clone https://github.com/SaqeebPatel/Finance-Tracker-
     cd finance-tracker-api
     ```
 
