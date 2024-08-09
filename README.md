@@ -1,4 +1,4 @@
-﻿# Finance-Tracker-
+
 # Finance Tracker
 - Finance Tracker is a robust API built with Node.js, Express, and MongoDB, designed for personal finance management. It includes user authentication with JWT and supports file uploads with Multer for attaching receipts to transactions.
 
